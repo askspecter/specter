@@ -42,7 +42,7 @@ Full 7-dimension behavioral score with colored bar chart.
 $ specter score 0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045
 
   ╔══════════════════════════════════════╗
-  ║  ░░  SPECTER PROTOCOL  ░░  v1.0.0   ║
+  ║  ░░  SPECTER PROTOCOL  ░░  v1.0.0    ║
   ║      Know Your Agent · KYA           ║
   ╚══════════════════════════════════════╝
 
