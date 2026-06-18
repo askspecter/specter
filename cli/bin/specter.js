@@ -221,7 +221,7 @@ function cmdHelp() {
    ${c.yellow}65–84${c.reset}   Review Advised
    ${c.bred}0–64${c.reset}    High Risk
 
- ${c.gray}askspecter.xyz  ·  github.com/askspecter${c.reset}
+ ${c.gray}askspecter.lol  ·  github.com/askspecter${c.reset}
 `);
 }
 
