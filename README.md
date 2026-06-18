@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/specter-banner.jpg" alt="SPECTER" width="100%" />
-</p>
-
-<p align="center">
   <img src="assets/specter-logo.jpg" alt="SPECTER Logo" width="340" />
 </p>
 
