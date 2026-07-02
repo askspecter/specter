@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/specter-logo.jpg" alt="SPECTER Logo" width="340" />
-</p>
-
 <h1 align="center">SPECTER — Know Your Agent</h1>
 
 <p align="center">
